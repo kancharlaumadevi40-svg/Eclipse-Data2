@@ -1,7 +1,0 @@
-public class Gittest4
-{
-public void funA()
-{
-System.out.println("uma");
-}
-}

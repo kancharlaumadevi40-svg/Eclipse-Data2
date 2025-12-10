@@ -1,4 +1,4 @@
-public class GitTest3
+public class Gittest3
   {
     public static void main(String[] args)
     {
